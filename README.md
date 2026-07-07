@@ -104,11 +104,9 @@
 
 ## 8. 파일 구성
 
-```text
-genai-multimodal-maumnote-ad/
-├─ README.md
-├─ storyboard_maumnote.pdf
-└─ maumnote_ad_video.mp4.mp4
+- README.md
+- storyboard_maumnote.pdf
+- maumnote_ad_video.mp4.mp4
 
 ## 9. 최종 결론
 
@@ -117,4 +115,3 @@ genai-multimodal-maumnote-ad/
 마음노트 광고는 감정을 진단하거나 과장된 위로를 제공하는 방식이 아니라, “한 줄 기록”이라는 낮은 진입장벽을 통해 자기 마음을 정리하는 시작점을 제안합니다.
 
 최종 영상은 “말하지 못한 마음도, 기록하면 돌봄의 시작이 된다”는 브랜드 메시지를 전달합니다.
-
